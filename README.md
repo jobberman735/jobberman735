@@ -1,12 +1,12 @@
 # 👋 Hello, world!
 
 ## Started working from November 2022.
-## I am developing an android application that will be released on December 20 2023.
-### Hope you like it 😄
+I am developing an android application that will be released on December 20 2023.
+Hope you like it 😄
 
 ## Начал работать в ноябре 2022.
-## Я веду разработку андроид приложения, оно будет выпущено 20 декабря 2023.
-### Надеюсь оно вам понравится 😄
+Я веду разработку андроид приложения, оно будет выпущено 20 декабря 2023.
+Надеюсь оно вам понравится 😄
 <!--
 **jobberman735/jobberman735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
